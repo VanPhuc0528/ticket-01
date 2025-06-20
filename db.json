@@ -1,0 +1,99 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "ANGKOR EMPIRE MARATHON 2025",
+      "date": "2025-08-03",
+      "location": "Đền Angkor Wat – Siem Reap, Campuchia",
+      "price": 649800,
+      "imageUrl": "/images/angkor2025.png",
+      "isHot": true,
+      "isOnSale": true,
+      "regularPrice": 649800,
+      "vipPrice": 1250000
+    },
+    {
+      "id": "2",
+      "title": "SAIGON COLOR RUN 2025",
+      "date": "2025-09-10",
+      "location": "Phú Mỹ Hưng – TP.HCM",
+      "price": 299000,
+      "imageUrl": "/images/saigonrun.png",
+      "isHot": false,
+      "isOnSale": true,
+      "regularPrice": 299000,
+      "vipPrice": 599000
+    },
+    {
+      "id": "3",
+      "title": "SOOBIN LIVE CONCERT: ALL-ROUNDER",
+      "date": "2025-09-16",
+      "location": "Phú Mỹ Hưng – TP.HCM",
+      "price": 2000000,
+      "imageUrl": "/images/concertsoobin.png",
+      "description": "",
+      "isHot": true,
+      "isOnSale": true,
+      "regularPrice": 1200000,
+      "vipPrice": 2000000
+    }
+  ],
+  "info": [
+    {
+      "id": "1",
+      "name": "Phúc",
+      "firstname": "Nguyễn",
+      "date": "11/28/2004",
+      "sex": "Nam",
+      "nationality": "Việt Nam",
+      "city": "Hồ Chí Minh",
+      "identify": "075204005786",
+      "email": "nguyenharvin700@gmail.com",
+      "codearea": "+84",
+      "phone": "0373817448",
+      "address": "39/5/6G, Phường Linh Đông, Thủ Đức, TP.Hồ Chí Minh"
+    },
+    {
+      "id": "7e18",
+      "name": "Nguyên",
+      "firstname": "Phạm",
+      "date": "11/28/2006",
+      "sex": "Nam",
+      "nationality": "Việt Nam",
+      "city": "Hồ Chí Minh",
+      "identify": "075204005786",
+      "email": "phamnguyen700@gmail.com",
+      "codearea": "+84",
+      "phone": "0374774427",
+      "address": "39/5/6G, Phường Linh Đông, Thủ Đức, TP.Hồ Chí Minh"
+    },
+    {
+      "id": "3b63",
+      "name": "Phúc",
+      "firstname": "Nguyễn",
+      "date": "11/28/2004",
+      "sex": "Nam",
+      "nationality": "Việt Nam",
+      "city": "Hồ Chí Minh",
+      "identify": "075204005786",
+      "email": "nguyenharvin700@gmail.com",
+      "codearea": "+84",
+      "phone": "0373817448",
+      "address": "39/5/6G, Phường Linh Đông, Thủ Đức, TP.Hồ Chí Minh"
+    },
+    {
+      "id": "0bb6",
+      "name": "Phúc",
+      "firstname": "Nguyễn",
+      "date": "11/28/2004",
+      "sex": "Nam",
+      "nationality": "Việt Nam",
+      "city": "Hồ Chí Minh",
+      "identify": "075204005786",
+      "email": "nguyenharvin700@gmail.com",
+      "codearea": "+84",
+      "phone": "0373817448",
+      "address": "39/5/6G, Phường Linh Đông, Thủ Đức, TP.Hồ Chí Minh"
+    }
+  ]
+}
