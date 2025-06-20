@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "ANGKOR EMPIRE MARATHON 2025",
-      "date": "2025-08-03",
+      "date": "2025-06-25",
       "location": "Đền Angkor Wat – Siem Reap, Campuchia",
       "price": 649800,
       "imageUrl": "/images/angkor2025.jpg",
@@ -16,11 +16,11 @@
     {
       "id": "2",
       "title": "SKECHERS FRIENDSHIP WALK 2025",
-      "date": "2025-09-10",
+      "date": "2025-08-24",
       "location": "Phú Mỹ Hưng – TP.HCM",
       "price": 299000,
       "imageUrl": "/images/skechersrun.jpg",
-      "description": "Giải chạy màu sắc tại TP.HCM",
+      "description": "Giải chạy Skechers tại TP.HCM",
       "isHot": false,
       "isOnSale": true,
       "regularPrice": 299000,
@@ -29,8 +29,8 @@
     {
       "id": "3",
       "title": "SOOBIN LIVE CONCERT: ALL-ROUNDER",
-      "date": "2025-09-16",
-      "location": "Phú Mỹ Hưng – TP.HCM",
+      "date": "2025-05-24",
+      "location": "Nam Từ Liêm – Hà Nội",
       "price": 2000000,
       "imageUrl": "/images/concertsoobin.jpg",
       "description": "Chương trình biểu diễn của Soobin Hoàng Sơn",
